@@ -15,4 +15,5 @@ It plays local tracks, shows real-time progress, and lets you switch between son
 - JavaScript
 
 ## 🚀 Demo
+https://jpglez.github.io/Music-Player/
 
